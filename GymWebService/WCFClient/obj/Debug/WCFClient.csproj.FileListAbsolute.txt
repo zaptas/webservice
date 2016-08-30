@@ -1,0 +1,5 @@
+D:\git\WebService\GymWebService\WCFClient\bin\WCFClient.dll.config
+D:\git\WebService\GymWebService\WCFClient\bin\WCFClient.dll
+D:\git\WebService\GymWebService\WCFClient\bin\WCFClient.pdb
+D:\git\WebService\GymWebService\WCFClient\obj\Debug\WCFClient.dll
+D:\git\WebService\GymWebService\WCFClient\obj\Debug\WCFClient.pdb

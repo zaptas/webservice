@@ -1,0 +1,12 @@
+C:\Users\SOHELKHAN\Google Drive\DemoFiles\zaptas\GymWebService\GymWebService\bin\GymWebService.dll.config
+C:\Users\SOHELKHAN\Google Drive\DemoFiles\zaptas\GymWebService\GymWebService\bin\GymWebService.dll
+C:\Users\SOHELKHAN\Google Drive\DemoFiles\zaptas\GymWebService\GymWebService\bin\GymWebService.pdb
+C:\Users\SOHELKHAN\Google Drive\DemoFiles\zaptas\GymWebService\GymWebService\obj\Debug\GymWebService.csprojResolveAssemblyReference.cache
+C:\Users\SOHELKHAN\Google Drive\DemoFiles\zaptas\GymWebService\GymWebService\obj\Debug\GymWebService.dll
+C:\Users\SOHELKHAN\Google Drive\DemoFiles\zaptas\GymWebService\GymWebService\obj\Debug\GymWebService.pdb
+D:\git\WebService\GymWebService\GymWebService\bin\GymWebService.dll.config
+D:\git\WebService\GymWebService\GymWebService\bin\GymWebService.dll
+D:\git\WebService\GymWebService\GymWebService\bin\GymWebService.pdb
+D:\git\WebService\GymWebService\GymWebService\obj\Debug\GymWebService.csprojResolveAssemblyReference.cache
+D:\git\WebService\GymWebService\GymWebService\obj\Debug\GymWebService.dll
+D:\git\WebService\GymWebService\GymWebService\obj\Debug\GymWebService.pdb

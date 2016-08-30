@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ReferenceGroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" ID="f732b6ee-1747-4575-bdd5-685ed0a88051" xmlns="urn:schemas-microsoft-com:xml-wcfservicemap">
+  <ClientOptions>
+    <GenerateAsynchronousMethods>false</GenerateAsynchronousMethods>
+    <EnableDataBinding>true</EnableDataBinding>
+    <ExcludedTypes />
+    <ImportXmlTypes>false</ImportXmlTypes>
+    <GenerateInternalTypes>false</GenerateInternalTypes>
+    <GenerateMessageContracts>false</GenerateMessageContracts>
+    <NamespaceMappings />
+    <CollectionMappings />
+    <GenerateSerializableTypes>true</GenerateSerializableTypes>
+    <Serializer>Auto</Serializer>
+    <UseSerializerForFaults>true</UseSerializerForFaults>
+    <ReferenceAllAssemblies>true</ReferenceAllAssemblies>
+    <ReferencedAssemblies />
+    <ReferencedDataContractTypes />
+    <ServiceContractMappings />
+  </ClientOptions>
+  <MetadataSources>
+    <MetadataSource Address="http://localhost:5169/index.svc" Protocol="http" SourceId="1" />
+  </MetadataSources>
+  <Metadata>
+    <MetadataFile FileName="index.xsd" MetadataType="Schema" ID="4d888337-2fc2-4910-9e3a-c20d3b471306" SourceId="1" SourceUrl="http://localhost:5169/index.svc?xsd=xsd1" />
+    <MetadataFile FileName="index.disco" MetadataType="Disco" ID="9c985d46-5bbd-4c72-b1e9-de11af597b87" SourceId="1" SourceUrl="http://localhost:5169/index.svc?disco" />
+    <MetadataFile FileName="index.wsdl" MetadataType="Wsdl" ID="e25b0864-6941-47c1-a704-797b9fa3598d" SourceId="1" SourceUrl="http://localhost:5169/index.svc?wsdl" />
+    <MetadataFile FileName="index1.xsd" MetadataType="Schema" ID="b83c5de6-94f3-4c7a-9850-ea003bbe59ff" SourceId="1" SourceUrl="http://localhost:5169/index.svc?xsd=xsd0" />
+  </Metadata>
+  <Extensions>
+    <ExtensionFile FileName="configuration91.svcinfo" Name="configuration91.svcinfo" />
+    <ExtensionFile FileName="configuration.svcinfo" Name="configuration.svcinfo" />
+  </Extensions>
+</ReferenceGroup>
